@@ -15,12 +15,12 @@ In this Project, I have used seven different stages in order to apply the Machin
 6. Supply or submit the results.
 
 
-## Question and problem definition
+## Question and Problem Definition
 
 The Problem statement have been taken from a competition site Kaggle and the final submission/result file has been uploaded/submitted against the test dataset.
 The question or problem definition for Titanic Survival competition is [**described here at Kaggle**](https://www.kaggle.com/c/titanic).
 
-We may also want to develop some early understanding about the domain of our problem which is described on the **Kaggle competition description page**https://www.kaggle.com/c/titanic.
+We may also want to develop some early understanding about the domain of our problem which is described on the [**Kaggle competition description page**](https://www.kaggle.com/c/titanic).
 
 
 Here are the highlights to note.
@@ -29,4 +29,4 @@ Here are the highlights to note.
 * The lack of lifeboats for the passengers and crew contributed to the shipwreck's high death toll.
 * Some groups of people had a higher chance of surviving the sinking than others, such as women, children, and the upper class.
 
-More information rekated to the Titanic Ship can be found **here**https://www.wikiwand.com/en/Sinking_of_the_Titanic.
+More information rekated to the Titanic Ship can be found [**here**](https://www.wikiwand.com/en/Sinking_of_the_Titanic).
